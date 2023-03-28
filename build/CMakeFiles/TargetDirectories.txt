@@ -1,6 +1,0 @@
-/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/CMakeFiles/edit_cache.dir
-/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/CMakeFiles/rebuild_cache.dir
-/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/src/CMakeFiles/test.dir
-/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/src/CMakeFiles/test2.dir
-/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/src/CMakeFiles/edit_cache.dir
-/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/src/CMakeFiles/rebuild_cache.dir
