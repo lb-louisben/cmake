@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++20 -o CMakeFiles/test.dir/main.cpp.o -c /Users/louis/Documents/Code/github.com/lb-louisben/cmake/src/main.cpp",
+  "file": "/Users/louis/Documents/Code/github.com/lb-louisben/cmake/src/main.cpp"
+},
+{
+  "directory": "/Users/louis/Documents/Code/github.com/lb-louisben/cmake/build/src",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++20 -o CMakeFiles/test2.dir/main.cpp.o -c /Users/louis/Documents/Code/github.com/lb-louisben/cmake/src/main.cpp",
+  "file": "/Users/louis/Documents/Code/github.com/lb-louisben/cmake/src/main.cpp"
+}
+]
